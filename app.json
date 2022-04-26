@@ -1,18 +1,18 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "dabotun",
+    "description": "Deploy dabotun.",
+    "keywords": ["dabotun"],
     "env": {
         "ID": {
-            "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "description": "uuid",
+            "value": "6a41db75-8bd0-4f6d-bbc5-f792459eed09"
         },
         "WSPATH": {
-            "description": "WebSocket Path",
+            "description": "webwsocket path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com/daWxiaow/free-vmess",
+    "repository": "https://github.com/daWxiaow/free-vmess",
     "stack": "container"
 }
